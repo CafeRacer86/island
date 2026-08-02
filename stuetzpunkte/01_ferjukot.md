@@ -2,25 +2,15 @@
 
 **Zeitraum:** Tag 1 bis Tag 5 (03. September - 07. September)
 **Stützpunkt:** Ferjukot (Ölfus)
-**Reisende:** Ralf & Christine
 
 ---
 
-## 1. Überlegungen, Abgrenzungen & Rahmenbedingungen
+## 1. Stützpunktspezifische Überlegungen
 
-**Strategische Überlegungen:**
 *   **Stützpunkt-Konzept (Ölfus):** Die Wahl von Ferjukot in der Gemeinde Ölfus ist logistisch ideal. Es bietet schnelle Zugänge zu Supermärkten (Selfoss/Hveragerði) und ist der perfekte Ausgangspunkt für den Golden Circle und Vorstöße ins Hochland, ohne jeden Tag die Unterkunft wechseln zu müssen.
-*   **Antizyklische Planung & Pausen:** Um dem Massentourismus am Golden Circle zu entgehen, wird der frühe Morgen genutzt. Die Peak-Zeiten der Reisebusse (mittags bis früher Nachmittag) werden strategisch als Erholungspause und zur Datensicherung im Apartment verbracht.
 *   **Hochland-Logistik (F-Straßen):** Für Landmannalaugar wird bewusst die F208 Nord als An- und Abreiseroute gewählt. Sie ist im Vergleich zur F225 materialschonender, besser zu fahren und erfordert keine tiefen Flussdurchquerungen vor dem Ziel. Die letzten beiden Furten vor dem Camp werden zu Fuß über die Brücke umgangen.
-
-**Abgrenzungen:**
-*   **Wander-Intensität:** Touren sind primär flach bis maximal 300–400 Höhenmeter (z.B. Brennisteinsalda) geplant. Alpine Wanderungen oder exzessive Steigungen wurden bewusst ausgeschlossen, um ausreichend Energie für die Fotografie zu bewahren. Bei Bedarf können anstrengendere Streckenabschnitte eingebaut werden, erfordern dann aber dedizierte Pausenzeiten.
-*   **Städtetourismus:** Reykjavík wird als Tagesausflugsziel komplett ausgeklammert, da der klare Fokus auf Natur, Fotografie und den F-Straßen vor der herbstlichen Wintersperre liegt.
-
-**Equipment & Fotografie-Fokus:**
-*   Kamera: Sony a6700 mit Tamron 17-70mm, Viltrox 13mm (ideal für Aurora/Astro) und Sony 70-350mm (Kompression bei Bergen/Kratern).
-*   Drohne: DJI Mavic 4 Pro (Restriktionen an Hauptattraktionen werden strikt beachtet, Fokus auf Hochland/Schluchten abseits der Nationalparks).
-*   Stativ für Langzeitbelichtungen und weiches Septemberlicht.
+*   **Antizyklische Tagesplanung (Golden Circle):** Die Peak-Zeiten der Reisebusse (mittags bis früher Nachmittag) werden am Golden Circle als Erholungspause und zur Datensicherung im Apartment genutzt; früher Morgen und Abend sind für die Hauptspots reserviert.
+*   **Städtetourismus:** Reykjavík liegt in Reichweite dieses Stützpunkts, wird aber bewusst nicht als Tagesausflug eingeplant.
 
 ---
 

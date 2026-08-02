@@ -1,6 +1,7 @@
 # ISLAND_RUNDREISE_21_NÄCHTE
 
 ## REISEPARAMETER_UND_PROFIL
+* REISENDE: Ralf & Christine
 * REISEZEITRAUM: 03. September bis 24. September
 * DAUER_GESAMT: 21 Nächte
 * ROUTENFÜHRUNG: Gegen den Uhrzeigersinn (Start im Süden -> Osten -> Norden -> Westfjorde -> Westen)
@@ -21,9 +22,19 @@
   * Drohne: DJI Mavic 4 Pro (Restriktionen in Nationalparks zwingend beachten)
 * ORGANISATION_UND_APPS:
   * Wetter/Sicherheit: Vedur.is (offizielles Wetter/Wind), Hello Aurora (Polarlichter)
-  * Navigation/Straßen: Umferdin.is (Echtzeit-Zustand/Sperrungen)
+  * Navigation/Straßen: Umferdin.is (Echtzeit-Zustand/Sperrungen), Road.is (offizielle Straßenzustands- & Sperrungskarte von Vegagerðin)
   * Logistik/Zahlung: Parka.is (Parkgebühren per Kennzeichen/App), Bensín (Günstigste Tankstellen)
   * Buchungspflichten: Landmannalaugar (Parkplatzreservierung via Parka.is bis 15.09. für Ankunft 08:00-15:00 Uhr zwingend); Secret Lagoon (Feste Zeitslots online)
+
+---
+
+## HINWEIS_ZU_DEN_HIGHLIGHTS_PINS
+Die HIGHLIGHTS_PINS je Stützpunkt sind eine sehr umfangreiche, von Ralf vorab recherchierte und markierte Sammlung an Interessenspunkten (POIs) — keine verbindliche Tagesroute. Sie decken bewusst mehr Ziele ab, als in der jeweiligen Aufenthaltsdauer realistisch machbar ist. Bei der Detailplanung je Stützpunkt müssen sie daher aktiv einbezogen und geprüft werden:
+* Welche POIs sind besondere Highlights (fotografisch, landschaftlich, Alleinstellungsmerkmal) und sollten priorisiert werden?
+* Ist die Anfahrt/Besichtigung in der verfügbaren Zeit und mit dem Reiseprofil (Wanderintensität, F-Straßen-Tauglichkeit, Wetterfenster) machbar?
+* Ist die Kombination mehrerer POIs an einem Tag plausibel (Fahrzeiten, Lichtverhältnisse, Öffnungs-/Buchungszeiten, Pausen)?
+
+Nicht jeder gelistete POI muss zwingend in die finale Tagesplanung übernommen werden — Auswahl und Reihenfolge sind Teil der Detailplanung je Stützpunkt.
 
 ---
 
