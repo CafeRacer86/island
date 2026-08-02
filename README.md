@@ -57,7 +57,7 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
   * [Kerið](https://www.google.com/maps/search/?api=1&query=Keri%C3%B0%2C+Iceland) — Vulkankrater mit türkisfarbenem Kratersee, entstanden vor ca. 6.000 Jahren.
   * [Ljótipollur / Bláhylur](https://www.google.com/maps/search/?api=1&query=Lj%C3%B3tipollur%2C+Iceland) — Farbenprächtiger Kratersee im Hochland (rotbraune Kraterwände, tiefblaues Wasser).
   * [Hjálparfoss](https://www.google.com/maps/search/?api=1&query=Hj%C3%A1lparfoss%2C+Iceland) — Doppelwasserfall, wo zwei Flüsse über säulenförmige Basaltformationen zusammenfließen.
-  * [Þjófafoss](https://www.google.com/maps/search/?api=1&query=%C3%9Ej%C3%B3fafoss%2C+Iceland) — Wasserfall am Fluss Þjórsá mit Blick auf den Vulkan Hekla.
+  * [Þjófafoss](https://www.google.com/maps/search/?api=1&query=64.057,-19.867) — Wasserfall am Fluss Þjórsá mit Blick auf den Vulkan Hekla.
   * [Þjóðveldisbær](https://www.google.com/maps/search/?api=1&query=%C3%9Ejo%C3%B0veldisb%C3%A6r%2C+Iceland) — Rekonstruierter Torfhof im isländischen Siedlungsstil (Wikingerzeit), Freilichtmuseum.
   * [Hrunalaug / Secret Lagoon](https://www.google.com/maps/search/?api=1&query=Hrunalaug%2C+Iceland) — Zwei kleine geothermale Badequellen; Hrunalaug rustikal-natürlich, Secret Lagoon ein etwas größeres, historisches Freibad.
   * [Brúarhlöð](https://www.google.com/maps/search/?api=1&query=Br%C3%BAarhl%C3%B6%C3%B0%2C+Iceland) — Enge, dramatische Schlucht/Steinbrücke über den Fluss Hvítá.
@@ -102,7 +102,7 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
   * [Fjallsárlón](https://www.google.com/maps/search/?api=1&query=Fjallsárlón%2C+Iceland) — Kleinere, ruhigere Gletscherlagune mit Blick auf den Gletscher Fjallsjökull.
   * [Svartifoss (Skaftafell Nationalpark)](https://www.google.com/maps/search/?api=1&query=Svartifoss%2C+Iceland) — Wasserfall, umrahmt von markanten schwarzen Basaltsäulen, im Skaftafell-Teil des Vatnajökull-Nationalparks.
   * [Svínafellsjökull](https://www.google.com/maps/search/?api=1&query=Sv%C3%ADnafellsj%C3%B6kull%2C+Iceland) — Eindrucksvolle Gletscherzunge mit zerklüfteten Eisformationen, bekannt aus diversen Filmproduktionen.
-  * [Skútafoss](https://www.google.com/maps/search/?api=1&query=Sk%C3%BAtafoss%2C+Iceland) — Wenig bekannter Wasserfall in der Region Skaftafell/Höfn.
+  * [Skútafoss](https://www.google.com/maps/search/?api=1&query=64.342,-14.948) — Wenig bekannter Wasserfall in der Region Skaftafell/Höfn.
   * [Krossanesfjall](https://www.google.com/maps/search/?api=1&query=Krossanesfjall%2C+Iceland) — Aussichtsberg/Wanderziel nahe Höfn.
   * [Klifatindur](https://www.google.com/maps/search/?api=1&query=Klifatindur%2C+Iceland) — Berg/Wanderziel in der Umgebung von Höfn.
 
@@ -118,7 +118,8 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
   * [Dalatangi](https://www.google.com/maps/search/?api=1&query=Dalatangi%2C+Iceland) — Abgelegener Leuchtturm an der östlichsten Landspitze Islands, Ende einer schmalen Piste.
   * [Stuðlafoss Waterfall](https://www.google.com/maps/search/?api=1&query=Stu%C3%B0lafoss%2C+Iceland) — Wasserfall mit Basaltsäulen-Umrahmung in Ostisland.
   * [Rjúkandi Waterfall](https://www.google.com/maps/search/?api=1&query=Rj%C3%BAkandi%2C+Iceland) — Kaskadenartiger Wasserfall direkt an der Ringstraße nahe Egilsstaðir.
-  * [Álftafjörður](https://www.google.com/maps/search/?api=1&query=%C3%81lftafj%C3%B6r%C3%B0ur%2C+Iceland) — Ruhiger Fjord in Ostisland, bekannt für Vogel- und Landschaftsbeobachtung.
+  * [Álftafjörður](https://www.google.com/maps/search/?api=1&query=%C3%81lftafj%C3%B6r%C3%B0ur%2C+Dj%C3%BApivogur%2C+Iceland) — Ruhiger Fjord in Ostisland, bekannt für Vogel- und Landschaftsbeobachtung.
+  * [Hænubrekkufoss](https://www.google.com/maps/search/?api=1&query=H%C3%A6nubrekkufoss%2C+Iceland) — Dreistufiger Wasserfall an der Berufjardara, an der Westseite des Öxi-Passes (Route 939) nahe Djúpivogur.
 
 ## 5_STÜTZPUNKT: MÝVATN_REYKJAHLÍÐ
 * DAUER: 4 Nächte (Tag 13 - Tag 17)
@@ -148,8 +149,7 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
   * [Dynjandi Wasserfall](https://www.google.com/maps/search/?api=1&query=Dynjandi%2C+Iceland) — Größter und bekanntester Wasserfall der Westfjorde, fächerförmige Kaskade über mehrere Stufen.
   * [Látrabjarg Vogelfelsen](https://www.google.com/maps/search/?api=1&query=L%C3%A1trabjarg%2C+Iceland) — Westlichster Punkt Islands, hohe Steilklippen mit einer der größten Vogelkolonien des Nordatlantiks (u.a. Papageientaucher).
   * [Rauðisandur Strand](https://www.google.com/maps/search/?api=1&query=Rau%C3%B0isandur%2C+Iceland) — Ungewöhnlich rötlich-goldener Sandstrand an der Südwestküste der Westfjorde.
-  * [Hænubrekkufoss](https://www.google.com/maps/search/?api=1&query=H%C3%A6nubrekkufoss%2C+Iceland) — Wasserfall in den Westfjorden.
-  * [Fossdalsfoss](https://www.google.com/maps/search/?api=1&query=Fossdalsfoss%2C+Iceland) — Wasserfall in den Westfjorden.
+  * [Foss (Fossfjörður)](https://www.google.com/maps/search/?api=1&query=65.6015,-23.5376) — Kleiner Wasserfall direkt an der Straße (Route 63) im Fossfjörður, einem Seitenarm des Arnarfjörður.
 
 ## 7_STÜTZPUNKT: GRUNDARFJÖRÐUR_SNÆFELLSNES
 * DAUER: 3 Nächte (Tag 19 - Tag 22 / Abreise)
