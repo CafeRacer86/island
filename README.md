@@ -28,6 +28,7 @@
 ---
 
 ## 1_STÜTZPUNKT: FERJUKOT (ÖLFUS)
+* DETAILPLANUNG: [stuetzpunkte/01_ferjukot.md](stuetzpunkte/01_ferjukot.md)
 * DAUER: 4 Nächte (Tag 1 - Tag 5)
 * ÜBERNACHTUNGSDATEN: 03. September - 07. September
 * HIGHLIGHTS_PINS:
