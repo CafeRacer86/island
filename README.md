@@ -42,8 +42,7 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
 
 ## 1_STÜTZPUNKT: FERJUKOT (ÖLFUS)
 * DETAILPLANUNG: [stuetzpunkte/01_ferjukot.md](stuetzpunkte/01_ferjukot.md)
-* DAUER: 4 Nächte (Tag 1 - Tag 5)
-* ÜBERNACHTUNGSDATEN: 03. September - 07. September
+* ÜBERNACHTUNGSDATEN: 03. September - 07. September (4 Nächte, Tag 1-5)
 * HIGHLIGHTS_PINS:
   * [Þingvellir Nationalpark (Öxarárfoss, Almannagjá)](https://www.google.com/maps/search/?api=1&query=%C3%9Eingvellir+National+Park%2C+Iceland) — UNESCO-Weltkulturerbe; Kontinentalspalte zwischen nordamerikanischer und eurasischer Platte, historischer Ort des ersten isländischen Parlaments, mit Wasserfall und Spaltental.
   * [Geysir & Strokkur](https://www.google.com/maps/search/?api=1&query=Geysir+Strokkur%2C+Iceland) — Geothermalfeld mit dem namensgebenden (inaktiven) Geysir und dem alle paar Minuten aktiven Springquell Strokkur.
@@ -66,8 +65,7 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
   * [Stútur Krater](https://www.google.com/maps/search/?api=1&query=St%C3%BAtur+Crater%2C+Iceland) — Kleiner Vulkankrater nahe Landmannalaugar/Frostastaðavatn.
 
 ## 2_STÜTZPUNKT: HVOLSVÖLLUR_HELLA
-* DAUER: 4 Nächte (Tag 5 - Tag 9)
-* ÜBERNACHTUNGSDATEN: 07. September - 11. September
+* ÜBERNACHTUNGSDATEN: 07. September - 11. September (4 Nächte, Tag 5-9)
 * GEBUCHT: Apartment Fíflholt (Eystra-Fíflholt Neðri hæð, 861 Hvolsvöllur)
 * HINWEIS: Ursprünglich als Vík/Kirkjubæjarklaustur geplant — dort war der Zeitraum faktisch unbuchbar (siehe [Buchungsportal-Verfügbarkeitsszenarien Süd-Island](.scratch/island-rundreise/issues/03-buchungsportal-verfuegbarkeitsszenarien.md)); Hvolsvöllur/Hella ist die gebuchte Alternativ-Basis für dieselben Highlights, mit teils längeren Fahrzeiten zu den östlichen Zielen (Þakgil, Fjaðrárgljúfur, Eldgjá).
 * HIGHLIGHTS_PINS:
@@ -93,25 +91,30 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
   * [Árbæjarfoss](https://www.google.com/maps/search/?api=1&query=%C3%81rb%C3%A6jarfoss%2C+Iceland) — Wenig bekannter Wasserfall im Hochlandgebiet südlich von Landmannalaugar.
   * [Orustuhóll](https://www.google.com/maps/search/?api=1&query=Orustuh%C3%B3ll%2C+Iceland) — Aussichtspunkt/Hügel im Hochland (Fjallabak-Gebiet).
 
-## 3_STÜTZPUNKT: HÖFN_SKAFTAFELL
-* DAUER: 2 Nächte (Tag 9 - Tag 11)
-* ÜBERNACHTUNGSDATEN: 11. September - 13. September
-* GEBUCHT: Split über zwei Unterkünfte (1N Skaftafell Lodges + 1N Glacier World Hoffell) — Verfügbarkeit war hier eng (siehe [Verfügbarkeit & Buchung Skaftafell/Höfn](.scratch/island-rundreise/issues/09-verfuegbarkeit-buchung-skaftafell-hoefn.md))
+## 3_STÜTZPUNKT: SKAFTAFELL
+* ÜBERNACHTUNGSDATEN: 11. September - 12. September (1 Nacht, Tag 9-10)
+* GEBUCHT: Skaftafell Lodges by Adventure Hotels, Skaftafell 3C, 785 Skaftafell
+* HINWEIS: Split-Teil 1 eines ursprünglich als durchgehend 2N geplanten Stützpunkts Höfn/Skaftafell — Verfügbarkeit war hier eng (siehe [Verfügbarkeit & Buchung Skaftafell/Höfn](.scratch/island-rundreise/issues/09-verfuegbarkeit-buchung-skaftafell-hoefn.md)).
 * HIGHLIGHTS_PINS:
   * [Múlagljúfur Canyon](https://www.google.com/maps/search/?api=1&query=M%C3%BAlaglj%C3%BAfur%2C+Iceland) — Abgelegener, wenig besuchter Canyon mit Wasserfällen, Zustieg über kurze Wanderung.
-  * [Jökulsárlón Gletscherlagune](https://www.google.com/maps/search/?api=1&query=J%C3%B6kuls%C3%A1rl%C3%B3n%2C+Iceland) — Berühmte Gletscherlagune mit treibenden Eisbergen vom Breiðamerkurjökull.
-  * [Diamond Beach](https://www.google.com/maps/search/?api=1&query=Diamond+Beach%2C+Iceland) — Schwarzer Sandstrand gegenüber Jökulsárlón, an dem glasklare Eisbrocken angespült werden.
-  * [Stokksnes / Vestrahorn (Viking Cafe)](https://www.google.com/maps/search/?api=1&query=Stokksnes+Vestrahorn%2C+Iceland) — Dramatische Berglandschaft an einer Landzunge mit schwarzen Dünen; Café als Zugangspunkt/Eintritt.
-  * [Fjallsárlón](https://www.google.com/maps/search/?api=1&query=Fjallsárlón%2C+Iceland) — Kleinere, ruhigere Gletscherlagune mit Blick auf den Gletscher Fjallsjökull.
   * [Svartifoss (Skaftafell Nationalpark)](https://www.google.com/maps/search/?api=1&query=Svartifoss%2C+Iceland) — Wasserfall, umrahmt von markanten schwarzen Basaltsäulen, im Skaftafell-Teil des Vatnajökull-Nationalparks.
   * [Svínafellsjökull](https://www.google.com/maps/search/?api=1&query=Sv%C3%ADnafellsj%C3%B6kull%2C+Iceland) — Eindrucksvolle Gletscherzunge mit zerklüfteten Eisformationen, bekannt aus diversen Filmproduktionen.
+
+## 4_STÜTZPUNKT: HÖFN
+* ÜBERNACHTUNGSDATEN: 12. September - 13. September (1 Nacht, Tag 10-11)
+* GEBUCHT: Glacier World - Hoffell Guesthouse, Hoffell 2B, 781 Hoffell
+* HINWEIS: Split-Teil 2 eines ursprünglich als durchgehend 2N geplanten Stützpunkts Höfn/Skaftafell — Verfügbarkeit war hier eng (siehe [Verfügbarkeit & Buchung Skaftafell/Höfn](.scratch/island-rundreise/issues/09-verfuegbarkeit-buchung-skaftafell-hoefn.md)).
+* HIGHLIGHTS_PINS:
+  * [Jökulsárlón Gletscherlagune](https://www.google.com/maps/search/?api=1&query=J%C3%B6kuls%C3%A1rl%C3%B3n%2C+Iceland) — Berühmte Gletscherlagune mit treibenden Eisbergen vom Breiðamerkurjökull.
+  * [Diamond Beach](https://www.google.com/maps/search/?api=1&query=Diamond+Beach%2C+Iceland) — Schwarzer Sandstrand gegenüber Jökulsárlón, an dem glasklare Eisbrocken angespült werden.
+  * [Fjallsárlón](https://www.google.com/maps/search/?api=1&query=Fjallsárlón%2C+Iceland) — Kleinere, ruhigere Gletscherlagune mit Blick auf den Gletscher Fjallsjökull.
+  * [Stokksnes / Vestrahorn (Viking Cafe)](https://www.google.com/maps/search/?api=1&query=Stokksnes+Vestrahorn%2C+Iceland) — Dramatische Berglandschaft an einer Landzunge mit schwarzen Dünen; Café als Zugangspunkt/Eintritt.
   * [Skútafoss](https://www.google.com/maps/search/?api=1&query=64.342,-14.948) — Wenig bekannter Wasserfall in der Region Skaftafell/Höfn.
   * [Krossanesfjall](https://www.google.com/maps/search/?api=1&query=Krossanesfjall%2C+Iceland) — Aussichtsberg/Wanderziel nahe Höfn.
   * [Klifatindur](https://www.google.com/maps/search/?api=1&query=Klifatindur%2C+Iceland) — Berg/Wanderziel in der Umgebung von Höfn.
 
-## 4_STÜTZPUNKT: EGILSSTAÐIR
-* DAUER: 2 Nächte (Tag 11 - Tag 13)
-* ÜBERNACHTUNGSDATEN: 13. September - 15. September
+## 5_STÜTZPUNKT: EGILSSTAÐIR
+* ÜBERNACHTUNGSDATEN: 13. September - 15. September (2 Nächte, Tag 11-13)
 * GEBUCHT: Stormur Cottages, Hvammur 2, 701 Vallanes
 * HIGHLIGHTS_PINS:
   * [Stuðlagil Canyon (Basalt Columns Viewing)](https://www.google.com/maps/search/?api=1&query=Stu%C3%B0lagil+Canyon%2C+Iceland) — Canyon mit dicht gedrängten, symmetrischen Basaltsäulen entlang des türkisfarbenen Flusses Jökla.
@@ -125,46 +128,51 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
   * [Álftafjörður](https://www.google.com/maps/search/?api=1&query=%C3%81lftafj%C3%B6r%C3%B0ur%2C+Dj%C3%BApivogur%2C+Iceland) — Ruhiger Fjord in Ostisland, bekannt für Vogel- und Landschaftsbeobachtung.
   * [Hænubrekkufoss](https://www.google.com/maps/search/?api=1&query=H%C3%A6nubrekkufoss%2C+Iceland) — Dreistufiger Wasserfall an der Berufjardara, an der Westseite des Öxi-Passes (Route 939) nahe Djúpivogur.
 
-## 5_STÜTZPUNKT: MÝVATN_REYKJAHLÍÐ
-* DAUER: 4 Nächte (Tag 13 - Tag 17)
-* ÜBERNACHTUNGSDATEN: 15. September - 19. September
+## 6_STÜTZPUNKT: HÚSAVÍK_NORDOSTEN
+* ÜBERNACHTUNGSDATEN: 15. September - 17. September (2 Nächte, Tag 13-15)
+* GEBUCHT: Apartment "Original North", Vað 1, Þingeyjarsveit (Aðaldalur, nahe Húsavík)
+* HINWEIS: Ersetzt den bisherigen Stützpunkt Mývatn/Reykjahlíð (4N) — dieser erwies sich als nicht buchbar. Húsavík deckt als Basis das Diamond-Circle-Cluster ab (siehe [Nord-Route neu strukturieren](.scratch/island-rundreise/issues/12-nord-route-neustrukturierung.md)).
 * HIGHLIGHTS_PINS:
   * [Dettifoss & Selfoss](https://www.google.com/maps/search/?api=1&query=Dettifoss%2C+Iceland) — Dettifoss ist der wasserreichste Wasserfall Europas; flussaufwärts liegt der kleinere, breite Selfoss.
   * [Ásbyrgi Schlucht](https://www.google.com/maps/search/?api=1&query=%C3%81sbyrgi%2C+Iceland) — Hufeisenförmige Schlucht mit Steilwänden und Wald, Teil des Vatnajökull-Nationalparks.
-  * [Goðafoss & Geitafoss](https://www.google.com/maps/search/?api=1&query=Go%C3%B0afoss%2C+Iceland) — "Wasserfall der Götter", halbkreisförmiger Wasserfall; unmittelbar daneben der kleinere Geitafoss.
-  * [Aldeyjarfoss](https://www.google.com/maps/search/?api=1&query=Aldeyjarfoss%2C+Iceland) — Wasserfall, umrahmt von markanten schwarzen Basaltsäulen, am Rand des Hochlands.
+  * [Húsavík](https://www.google.com/maps/search/?api=1&query=H%C3%BAsav%C3%ADk%2C+Iceland) — Küstenstadt, bekannt als "Walbeobachtungshauptstadt" Islands.
   * [Hverir / Námafjall](https://www.google.com/maps/search/?api=1&query=Hverir+N%C3%A1mafjall%2C+Iceland) — Geothermalfeld mit brodelnden Schlammtöpfen, Fumarolen und Schwefeldämpfen.
   * [Leirhnjúkur & Krafla](https://www.google.com/maps/search/?api=1&query=Leirhnj%C3%BAkur+Krafla%2C+Iceland) — Aktives vulkanisches Gebiet mit Lavafeldern, Kratern und der Krafla-Caldera.
+  * [GeoSea Geothermal Baths](https://www.google.com/maps/search/?api=1&query=GeoSea+Geothermal+Sea+Baths%2C+Iceland) — Infinity-Thermalbecken über der Küste bei Húsavík mit Blick auf Skjálfandi-Bucht. *(nicht durch Ralf bestätigt)*
+  * [Hafragilsfoss](https://www.google.com/maps/search/?api=1&query=Hafragilsfoss%2C+Iceland) — Wasserfall im Jökulsárgljúfur-Canyon, unterhalb von Dettifoss/Selfoss gelegen. *(nicht durch Ralf bestätigt)*
+  * [Tjörnes / Voladalstorfa](https://www.google.com/maps/search/?api=1&query=Tj%C3%B6rnes%2C+Iceland) — Halbinsel nördlich von Húsavík, bekannt für fossile Muschelschichten und Aussichtspunkte über die Bucht. *(nicht durch Ralf bestätigt)*
+
+## 7_STÜTZPUNKT: AKUREYRI_EYJAFJÖRÐUR
+* ÜBERNACHTUNGSDATEN: 17. September - 20. September (3 Nächte, Tag 15-18)
+* GEBUCHT: Apartment "North Mountain View Suites", Leifsstaðir 2, 605 Akureyri
+* HINWEIS: Transit-Tag 17.09. (Ankunft von Húsavík) nimmt die Mývatn-See-eigenen Pins mit, siehe [Nord-Route neu strukturieren](.scratch/island-rundreise/issues/12-nord-route-neustrukturierung.md).
+* HIGHLIGHTS_PINS:
   * [Hverfjall Krater](https://www.google.com/maps/search/?api=1&query=Hverfjall%2C+Iceland) — Großer, begehbarer Tuffring-Krater nahe Mývatn.
   * [Dimmuborgir Lavafeld](https://www.google.com/maps/search/?api=1&query=Dimmuborgir%2C+Iceland) — Bizarres Lavafeld mit hohlraum- und turmartigen Lavaformationen.
-  * [Mývatn Natur Bäder](https://www.google.com/maps/search/?api=1&query=M%C3%BDvatn+Nature+Baths%2C+Iceland) — Geothermales Freibad am Mývatn-See, ruhigere Alternative zur Blauen Lagune.
   * [Grjótagjá Cave](https://www.google.com/maps/search/?api=1&query=Grj%C3%B3tagj%C3%A1%2C+Iceland) — Lava-Höhle mit geothermalem Wasserbecken (Baden aktuell meist zu heiß/nicht erlaubt).
-  * [Húsavík](https://www.google.com/maps/search/?api=1&query=H%C3%BAsav%C3%ADk%2C+Iceland) — Küstenstadt, bekannt als "Walbeobachtungshauptstadt" Islands.
+  * [Mývatn Natur Bäder](https://www.google.com/maps/search/?api=1&query=M%C3%BDvatn+Nature+Baths%2C+Iceland) — Geothermales Freibad am Mývatn-See, ruhigere Alternative zur Blauen Lagune.
+  * [Goðafoss & Geitafoss](https://www.google.com/maps/search/?api=1&query=Go%C3%B0afoss%2C+Iceland) — "Wasserfall der Götter", halbkreisförmiger Wasserfall; unmittelbar daneben der kleinere Geitafoss.
+  * [Aldeyjarfoss](https://www.google.com/maps/search/?api=1&query=Aldeyjarfoss%2C+Iceland) — Wasserfall, umrahmt von markanten schwarzen Basaltsäulen, am Rand des Hochlands; bestätigte Highland-Grenze (F26 Sprengisandsleið dahinter hat echte Furten).
   * [Réttarfoss](https://www.google.com/maps/search/?api=1&query=R%C3%A9ttarfoss%2C+Iceland) — Wasserfall im Bárðardalur-Tal.
-  * [Öxarfjörður Viewpoint](https://www.google.com/maps/search/?api=1&query=%C3%96xarfj%C3%B6r%C3%B0ur%2C+Iceland) — Aussichtspunkt über die Bucht Öxarfjörður im Norden.
+  * [Siglufjörður](https://www.google.com/maps/search/?api=1&query=Siglufj%C3%B6r%C3%B0ur%2C+Iceland) — Ehemaliges Heringsfischer-Städtchen an der Nordspitze, bekanntes Heringszeitalter-Museum. *(nicht durch Ralf bestätigt)*
+  * [Hofsós Sundlaug](https://www.google.com/maps/search/?api=1&query=Hofs%C3%B3s+Swimming+Pool%2C+Iceland) — Infinity-Schwimmbad mit Blick über den Skagafjörður. *(nicht durch Ralf bestätigt)*
+  * [Laufás](https://www.google.com/maps/search/?api=1&query=Laufás+Turf+Houses%2C+Iceland) — Gut erhaltenes Torfhof-Museum am Eyjafjörður. *(nicht durch Ralf bestätigt)*
 
-## 6_STÜTZPUNKT: BLÖNDUÓS
-* DAUER: 1 Nacht (Tag 17 - Tag 18)
-* ÜBERNACHTUNGSDATEN: 19. September - 20. September
-* HINWEIS: Neuer Zwischenstopp, exakt auf der direkten Route zwischen Mývatn/Reykjahlíð und Westfjorde-Süd — löst den sonst 588 km / 7 Std. 16 langen Direkt-Transfer auf. Verfügbarkeit/Buchung noch offen (siehe [Verfügbarkeit & Buchung Blönduós](.scratch/island-rundreise/issues/11-verfuegbarkeit-buchung-blonduos.md)).
+## 8_STÜTZPUNKT: HÚNAFLÓI_BUCHT (HVAMMSTANGI_BLÖNDUÓS)
+* ÜBERNACHTUNGSDATEN: 20. September - 22. September (2 Nächte, Tag 18-20)
+* GEBUCHT: Mörk Superior Cottages, Mörk, 531 Hvammstangi
+* HINWEIS: Erweitert vom ursprünglichen 1-Nacht-Zwischenstopp Blönduós auf 2 Nächte; ersetzt zugleich den gestrichenen Stützpunkt Westfjorde-Süd (Patreksfjörður-Umgebung mit Dynjandi/Látrabjarg/Rauðisandur ist komplett entfallen, siehe [Nord-Route neu strukturieren](.scratch/island-rundreise/issues/12-nord-route-neustrukturierung.md)).
 * HIGHLIGHTS_PINS:
   * [Hvítserkur](https://www.google.com/maps/search/?api=1&query=Hv%C3%ADtserkur%2C+Iceland) — Markanter, freistehender Basaltfelsen in der Húnaflói-Bucht mit tierähnlicher Silhouette.
   * [Kálfshamarsvík Lighthouse](https://www.google.com/maps/search/?api=1&query=K%C3%A1lfshamarsv%C3%ADk%2C+Iceland) — Malerische Bucht mit Basaltformationen und historischem Leuchtturm auf der Skagi-Halbinsel.
   * [Kolugljúfur Canyon](https://www.google.com/maps/search/?api=1&query=Koluglj%C3%BAfur%2C+Iceland) — Enge, von Sage umrankte Schlucht mit mehreren Wasserfällen im Fluss Víðidalsá.
+  * [Illugastaðir](https://www.google.com/maps/search/?api=1&query=Illugasta%C3%B0ir%2C+Iceland) — Robbenbeobachtungsplatz an der Vatnsnes-Halbinsel. *(nicht durch Ralf bestätigt)*
+  * [Borgarvirki](https://www.google.com/maps/search/?api=1&query=Borgarvirki%2C+Iceland) — Natürliche Basaltfestung mit weitem Ausblick über das Umland. *(nicht durch Ralf bestätigt)*
 
-## 7_STÜTZPUNKT: WESTFJORDE_SÜD (PATREKSFJÖRÐUR_UMGEBUNG)
-* DAUER: 2 Nächte (Tag 18 - Tag 20)
-* ÜBERNACHTUNGSDATEN: 20. September - 22. September
-* HIGHLIGHTS_PINS:
-  * [Dynjandi Wasserfall](https://www.google.com/maps/search/?api=1&query=Dynjandi%2C+Iceland) — Größter und bekanntester Wasserfall der Westfjorde, fächerförmige Kaskade über mehrere Stufen.
-  * [Látrabjarg Vogelfelsen](https://www.google.com/maps/search/?api=1&query=L%C3%A1trabjarg%2C+Iceland) — Westlichster Punkt Islands, hohe Steilklippen mit einer der größten Vogelkolonien des Nordatlantiks (u.a. Papageientaucher).
-  * [Rauðisandur Strand](https://www.google.com/maps/search/?api=1&query=Rau%C3%B0isandur%2C+Iceland) — Ungewöhnlich rötlich-goldener Sandstrand an der Südwestküste der Westfjorde.
-  * [Foss (Fossfjörður)](https://www.google.com/maps/search/?api=1&query=65.6015,-23.5376) — Kleiner Wasserfall direkt an der Straße (Route 63) im Fossfjörður, einem Seitenarm des Arnarfjörður.
-
-## 8_STÜTZPUNKT: GRUNDARFJÖRÐUR_SNÆFELLSNES
-* DAUER: 2 Nächte (Tag 20 - Tag 22 / Abreise)
-* ÜBERNACHTUNGSDATEN: 22. September - 24. September
-* HINWEIS: Von 3 auf 2 Nächte reduziert — die freigewordene Nacht finanziert den neuen Blönduós-Stopp; die Halbinsel-Pins sind kompakt genug, die Borgarfjörður-Pins fallen ohnehin in den knappen Abreisetag vor dem 16:10-Uhr-Flug.
+## 9_STÜTZPUNKT: GRUNDARFJÖRÐUR_SNÆFELLSNES
+* ÜBERNACHTUNGSDATEN: 22. September - 24. September (2 Nächte, Tag 20-22 / Abreise)
+* GEBUCHT: Eiðhús Apartments, Snæfellsnesvegur, 311 Vegamót
+* HINWEIS: Von 3 auf 2 Nächte reduziert — die freigewordene Nacht finanziert den erweiterten Húnaflói-Bucht-Stopp; die Halbinsel-Pins sind kompakt genug, die Borgarfjörður-Pins fallen ohnehin in den knappen Abreisetag vor dem 16:10-Uhr-Flug ab Keflavík (218 km/2 Std 46 ab Grundarfjörður).
 * HIGHLIGHTS_PINS:
   * [Kirkjufell & Kirkjufellsfoss](https://www.google.com/maps/search/?api=1&query=Kirkjufell%2C+Iceland) — Markanter, kegelförmiger Berg (eines der meistfotografierten Motive Islands) mit vorgelagertem Wasserfall.
   * [Arnarstapi (Gatklettur, Küstenweg nach Hellnar)](https://www.google.com/maps/search/?api=1&query=Arnarstapi%2C+Iceland) — Fischerdorf mit dramatischer Basaltküste, Felsbogen Gatklettur und Küstenwanderweg nach Hellnar.

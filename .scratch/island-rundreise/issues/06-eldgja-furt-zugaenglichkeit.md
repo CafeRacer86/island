@@ -21,3 +21,5 @@ Prüfen anhand von Primärquellen (road.is, safetravel.is, ggf. F-Straßen-Guide
 ## Out of scope (2026-08-02)
 
 Ralf hat sich gegen den Kálfafell-Stopp entschieden (4N durchgehend Hvolsvöllur/Hella, dann direkt weiter nach Skaftafell/Höfn — die 4. Nacht in Hella gibt mehr Gelassenheit/Flexibilität als ein zusätzlicher Umzug). Damit ist Eldgjá als Tagesausflug-Kandidat komplett hinfällig, unabhängig vom Furt-Status — Frage muss nicht mehr geklärt werden.
+
+**Nachtrag (2026-08-08):** Falls Eldgjá bei der Detailplanung von Stützpunkt 2 (Hvolsvöllur/Hella, [Ticket 18](18-detailplanung-hvolsvoellur-hella.md)) erneut als Ziel aufkommt — laut README-Hinweis zu Stützpunkt 2 weiterhin im Gespräch, nur mit "teils längeren Fahrzeiten" —, ist die südliche Furt-Frage inzwischen in [Ticket 26](26-f-strassen-flussdurchquerungen-kritische-pisten.md) beantwortet: zwei Furten, mehrfach als flach/nicht tief dokumentiert, mit dem gebuchten Liability Waiver grundsätzlich vertretbar (Vor-Ort-Einschätzung vorausgesetzt).
