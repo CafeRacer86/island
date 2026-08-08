@@ -65,6 +65,7 @@ Jeder POI ist mit einer Kurzbeschreibung und einem Google-Maps-Suchlink versehen
   * [Stútur Krater](https://www.google.com/maps/search/?api=1&query=St%C3%BAtur+Crater%2C+Iceland) — Kleiner Vulkankrater nahe Landmannalaugar/Frostastaðavatn.
 
 ## 2_STÜTZPUNKT: HVOLSVÖLLUR_HELLA
+* DETAILPLANUNG: [stuetzpunkte/02_hvolsvoellur_hella.md](stuetzpunkte/02_hvolsvoellur_hella.md)
 * ÜBERNACHTUNGSDATEN: 07. September - 11. September (4 Nächte, Tag 5-9)
 * GEBUCHT: Apartment Fíflholt (Eystra-Fíflholt Neðri hæð, 861 Hvolsvöllur)
 * HINWEIS: Ursprünglich als Vík/Kirkjubæjarklaustur geplant — dort war der Zeitraum faktisch unbuchbar (siehe [Buchungsportal-Verfügbarkeitsszenarien Süd-Island](.scratch/island-rundreise/issues/03-buchungsportal-verfuegbarkeitsszenarien.md)); Hvolsvöllur/Hella ist die gebuchte Alternativ-Basis für dieselben Highlights, mit teils längeren Fahrzeiten zu den östlichen Zielen (Þakgil, Fjaðrárgljúfur, Eldgjá).
